@@ -1,5 +1,5 @@
 <h1 align="center"> Holita  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, Bienvenido! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-<h3 align="center">Ingeniera en Informática - Inacap - 21y</h3>
+<h3 align="center">Ingeniera en Informática - Inacap - 22y</h3>
 
 <div align="center">
 ➤ 5/8 Semestre / Chile, Temuco / Videojuegos, Dibujar, Música .ᐟ.ᐟ
